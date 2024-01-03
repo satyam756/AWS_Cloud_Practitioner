@@ -265,7 +265,7 @@
 
 # Introduction
 <!-- deployment modles of the cloud-->
-<img src="images/aws.jpg" height=100 width=100 alt="AWS" />
+
 ## Private cloud - rockspace
 
 ## public cloude - Azure, Google Cloud, AWS
